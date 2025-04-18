@@ -11,4 +11,4 @@ Questi cookie:
 
 Navigando su questo sito, accetti l'utilizzo di questi cookie tecnici.
 
-Per qualsiasi dubbio o richiesta, puoi contattarci tramite [Supporto Discord](https://discord.gg/zelden) o [email](mailto:support@zelden.frig.dev).
+Per qualsiasi dubbio o richiesta, puoi contattarci tramite il [Supporto Discord](https://discord.gg/apbCuupq2B).
